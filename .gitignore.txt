@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .idea/
 text.doc
+=======
+*.doc
+.idea/
+>>>>>>> afccdb17142fa3dc9f2fa0792c36447aaa466a53
